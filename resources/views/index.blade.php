@@ -84,6 +84,9 @@
             <div class="sidebar-heading">
                 Interface
             </div>
+            <div class="sidebar-heading">
+                Interface
+            </div>
 
             <!-- Nav Item - Pages Collapse Menu -->
             <li class="nav-item">
